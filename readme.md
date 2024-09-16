@@ -2,7 +2,7 @@
 
 "Aliases" for people who are too used to Linux commands.
 
-(<sub>These aren't technically aliases, but scripts accessible from a folder added to PATH.</sub>)
+<sub>(These aren't technically aliases, but scripts accessible from a folder added to PATH.)</sub>
 
 ## Installation
 
