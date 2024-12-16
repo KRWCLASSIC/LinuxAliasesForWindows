@@ -12,6 +12,9 @@
 4. Select "PATH" and click "Edit".
 5. Press "New" and add the path to the ".aliases" folder.
 
+<sub>(For optional aliases to work, the "optional" folder also needs to be added to PATH)</sub>
+<sub>(Alternatively, you can move them from the optional folder to the main one)</sub>
+
 ## Contribution
 
 Sure, submit some.
